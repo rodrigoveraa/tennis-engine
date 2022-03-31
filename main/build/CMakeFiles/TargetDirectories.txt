@@ -1,3 +1,0 @@
-J:/cosas/u/proyecto/tennis-engine/main/build/CMakeFiles/main.dir
-J:/cosas/u/proyecto/tennis-engine/main/build/CMakeFiles/ALL_BUILD.dir
-J:/cosas/u/proyecto/tennis-engine/main/build/CMakeFiles/ZERO_CHECK.dir
