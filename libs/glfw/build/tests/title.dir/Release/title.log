@@ -1,0 +1,5 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  title.c
+  glad_gl.c
+  Generating Code...
+  title.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\title.exe

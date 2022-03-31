@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\tests\clipboard.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\deps\getopt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\deps\glad_gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\deps\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\deps\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45499213-DBF8-3FB1-80CE-D7B2A2C10B11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6BC9A639-EBB9-38FD-B7EA-8BA5F915ADDF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  glfwinfo.c
+  getopt.c
+  glad_gl.c
+  glad_vulkan.c
+  Generating Code...
+  glfwinfo.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\glfwinfo.exe

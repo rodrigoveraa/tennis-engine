@@ -1,0 +1,6 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  glad_gl.c
+  Generating Code...
+  empty.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\empty.exe

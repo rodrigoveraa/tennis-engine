@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\build\CMakeFiles\944c0e370e47624859d1e6b767ab1655\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="J:\cosas\u\hello_cpp_libs\libs\glfw\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{06414FAF-D740-3E41-A2CD-EFB1B4F8D076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45499213-DBF8-3FB1-80CE-D7B2A2C10B11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

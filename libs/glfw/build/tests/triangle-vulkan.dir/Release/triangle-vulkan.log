@@ -1,0 +1,5 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  triangle-vulkan.c
+  glad_vulkan.c
+  Generating Code...
+  triangle-vulkan.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\triangle-vulkan.exe

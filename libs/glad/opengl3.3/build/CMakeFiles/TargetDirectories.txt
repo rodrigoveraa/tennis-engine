@@ -1,0 +1,3 @@
+J:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/build/CMakeFiles/glad.dir
+J:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/build/CMakeFiles/ALL_BUILD.dir
+J:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/build/CMakeFiles/ZERO_CHECK.dir

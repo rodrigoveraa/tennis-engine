@@ -1,0 +1,5 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/examples/CMakeLists.txt
+  sharing.c
+  glad_gl.c
+  Generating Code...
+  sharing.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\examples\Release\sharing.exe
