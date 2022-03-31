@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\osmesa_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\build\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\osmesa_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45499213-DBF8-3FB1-80CE-D7B2A2C10B11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6BC9A639-EBB9-38FD-B7EA-8BA5F915ADDF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

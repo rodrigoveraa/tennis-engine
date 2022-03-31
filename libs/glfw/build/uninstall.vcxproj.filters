@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\build\CMakeFiles\0edbc67d634a0f57e4db107b6eb7d3cb\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\cosas\u\hello_cpp_libs\libs\glfw\source\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="J:\cosas\u\hello_cpp_libs\libs\glfw\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{06414FAF-D740-3E41-A2CD-EFB1B4F8D076}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

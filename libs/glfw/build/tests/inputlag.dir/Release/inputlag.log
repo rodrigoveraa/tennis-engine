@@ -1,0 +1,6 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  inputlag.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  inputlag.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\inputlag.exe

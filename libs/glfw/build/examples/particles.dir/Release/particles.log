@@ -1,0 +1,7 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  particles.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\examples\Release\particles.exe

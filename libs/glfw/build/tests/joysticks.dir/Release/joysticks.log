@@ -1,0 +1,5 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/tests/CMakeLists.txt
+  joysticks.c
+  glad_gl.c
+  Generating Code...
+  joysticks.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\tests\Release\joysticks.exe

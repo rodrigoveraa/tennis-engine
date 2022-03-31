@@ -1,0 +1,10 @@
+^J:\COSAS\U\HELLO_CPP_LIBS\LIBS\GLFW\BUILD\CMAKEFILES\0EDBC67D634A0F57E4DB107B6EB7D3CB\GENERATE.STAMP.RULE
+setlocal
+"F:\Program Files (x86)\vs2019\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SJ:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw -BJ:/cosas/u/hello_cpp_libs/libs/glfw/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file J:/cosas/u/hello_cpp_libs/libs/glfw/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
