@@ -1,0 +1,5 @@
+﻿  Building Custom Rule J:/cosas/u/hello_cpp_libs/libs/glfw/source/glfw/examples/CMakeLists.txt
+  heightmap.c
+  glad_gl.c
+  Generating Code...
+  heightmap.vcxproj -> J:\cosas\u\hello_cpp_libs\libs\glfw\build\examples\Release\heightmap.exe

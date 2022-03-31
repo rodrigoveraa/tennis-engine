@@ -1,0 +1,10 @@
+^J:\COSAS\U\HELLO_CPP_LIBS\LIBS\GLAD\OPENGL3.3\BUILD\CMAKEFILES\F2AE154718CD02A09E6BC670F6669B86\GENERATE.STAMP.RULE
+setlocal
+"F:\Program Files (x86)\vs2019\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SJ:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/source/glad -BJ:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file J:/cosas/u/hello_cpp_libs/libs/glad/opengl3.3/build/glad.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
